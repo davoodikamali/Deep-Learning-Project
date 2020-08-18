@@ -15,5 +15,3 @@ pretrained model for leaky_efficient model : https://drive.google.com/file/d/1Se
 
 
 dataset, notebook and csv file sholud be in same palce
-
-**attention:** the last cell of the jupyter notebook file is the demo. 
