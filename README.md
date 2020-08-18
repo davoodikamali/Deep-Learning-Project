@@ -1,5 +1,17 @@
-# Deep Learning Project
-Here we publish our deep learning course project
+# DeeplearningProject_LungNoduleClassifier
+  https://iust-deep-learning.github.io/982/
 
-# About the dataset
-The dataset that we've used for our project is LIDC-IDRI. More information about this dataset can be found [here](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI). In order to see the samples of dataset you can visit [here](). For downloading this dataset, you should first download [this tcia file](https://wiki.cancerimagingarchive.net/download/attachments/1966254/TCIA_LIDC-IDRI_02_24_2020.tcia?version=1&modificationDate=1582562124706&api=v2) and downloading the dataset by using [NBIA Data Receiver](https://wiki.cancerimagingarchive.net/display/NBIA/Downloading+TCIA+Images)
+
+
+dataset Link : https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
+
+
+
+also need this file : http://www.via.cornell.edu/lidc/list3.2.csv
+
+
+
+pretrained model for leaky_efficient model : https://drive.google.com/file/d/1SeztwXnsgMTV8I_cT1gl8aJ783KcIYPM/view?usp=sharing
+
+
+dataset, notebook and csv file sholud be in same palce
